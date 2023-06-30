@@ -6,3 +6,4 @@ will focus on the problem subspace faced by a healthcare company that produces m
 vaccines, maintains the products, prepares packages, and delivers them to pharmacies and
 hospitals during the COVID-19 pandemic.
 #### In the Design Thinking Class, I have created a drone for delivery with cardboard as a low fidelity prototype.
+<img src="https://i.imgur.com/rFh4FPN.jpg" height="80%" width="80%" alt="Drone for Delivery"/>
